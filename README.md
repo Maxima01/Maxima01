@@ -1,4 +1,4 @@
-# Hi, I'm Michael Don Alaiza 👋
+# Hi, I'm Michael Don Alaiza , Native AI Developer 👋
 
 ## Aspiring Software Developer / Systems Engineer
 
@@ -9,6 +9,7 @@ I build practical, local-first software with a focus on web development, cross-p
 - 🌱 Learning **Rust**, revisiting **Python**, and exploring **C#**
 - 🛠️ Interested in web development, desktop applications, systems engineering, and offline-first software
 - ☀️ Yes, I develop in light mode
+- Information Technology Graduate class of 2025
 
 ## Tech Stack
 
@@ -20,13 +21,13 @@ I build practical, local-first software with a focus on web development, cross-p
 
 ## Featured Projects
 
-### [SheetShift](https://github.com/Maxima01/Sheetshift)
+### [SheetShift 0.1.1](https://github.com/Maxima01/Sheetshift) 
 
 A local document-to-Excel converter with a Tauri desktop interface and a Rust command-line tool. It supports batch conversion to `.xlsx`, keeps source documents on the user's device, and shares conversion settings and history across its desktop and CLI experiences.
 
 **Highlights:** Rust · Tauri · TypeScript · SQLite · Local-first file processing
 
-### [Little by Little](https://github.com/Maxima01/Little-By-Little)
+### [Little by Little (0.1)](https://github.com/Maxima01/Little-By-Little)
 
 An offline-first novel-writing workspace designed for distraction-free storytelling, story organization, and local data persistence. Built with React Native and Expo, with Electron powering its desktop experience.
 
