@@ -1,4 +1,4 @@
-# Hi, I'm Michael Don Alaiza , Native AI Developer 👋
+# Hi, I'm Michael Don Alaiza , AI Native Developer 👋
 
 ## Aspiring Software Developer / Systems Engineer
 
