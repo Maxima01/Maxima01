@@ -1,13 +1,11 @@
-# Hi, I'm Michael Don Alaiza , AI Native Developer 👋
+# Hi, I'm Michael Don Alaiza 
 
-## Aspiring Software Developer / Systems Engineer
+## Aspiring Software Developer / Systems Engineer / AI Native Development
 
 I build practical, local-first software with a focus on web development, cross-platform experiences, and thoughtful quality assurance. I enjoy turning everyday problems into tools that are useful, private, and straightforward.
 
 - 💻 Working with **TypeScript**, **JavaScript**, and **React Native**
 - 🧪 Experienced in **QA testing** and quality-focused development
-- 🌱 Learning **Rust**, revisiting **Python**, and exploring **C#**
-- 🛠️ Interested in web development, desktop applications, systems engineering, and offline-first software
 - ☀️ Yes, I develop in light mode
 - Information Technology Graduate class of 2025
 
@@ -27,7 +25,7 @@ A local document-to-Excel converter with a Tauri desktop interface and a Rust co
 
 **Highlights:** Rust · Tauri · TypeScript · SQLite · Local-first file processing
 
-### [Little by Little (0.1)](https://github.com/Maxima01/Little-By-Little)
+### [Little by Little (0.1.1)](https://github.com/Maxima01/Little-By-Little)
 
 An offline-first novel-writing workspace designed for distraction-free storytelling, story organization, and local data persistence. Built with React Native and Expo, with Electron powering its desktop experience.
 
