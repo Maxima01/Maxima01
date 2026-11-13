@@ -2,7 +2,7 @@
 
 ## Aspiring Software Developer / Systems Engineer / AI Native Development
 
-I build practical, local-first software with a focus on web development, cross-platform experiences, and thoughtful quality assurance. I enjoy turning everyday problems into tools that are useful, private, and straightforward.
+I build practical, local-first software with a focus on web development, cross-platform experiences, and thoughtful quality assurance. I enjoy turning everyday problems into tools that are useful, practical, and genuinely enjoyable to use.
 
 - 💻 Working with **TypeScript**, **JavaScript**, and **React Native**
 - 🧪 Experienced in **QA testing** and quality-focused development
@@ -30,6 +30,12 @@ A local document-to-Excel converter with a Tauri desktop interface and a Rust co
 An offline-first novel-writing workspace designed for distraction-free storytelling, story organization, and local data persistence. Built with React Native and Expo, with Electron powering its desktop experience.
 
 **Highlights:** TypeScript · React Native · Expo · Electron · Offline-first storage
+
+### [osmanthus](https://github.com/Maxima01/osmanthus)
+
+A local application behavior viewer for people who want to know what is currently running from their installed applications, including both third-party and official releases. It focuses on local visibility and simple desktop monitoring.
+
+**Highlights:** Rust · Local monitoring · Process visibility · Desktop utility
 
 ## Connect With Me
 
